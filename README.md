@@ -14,8 +14,8 @@
   - <a href="lalitsr24@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="https://www.linkedin.com/in/lalit-singh-rajput-607b1119b/" height="30" width="30" /> **lalitsr24@gmail.com**</a>
 
 <p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LalitSinghRajput&count_private=true&show_icons=true&theme=algolia" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LalitSinghRajput&count_private=true&show_icons=true" />
 </p>
 <p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LalitSinghRajput&langs_count=3&layout=compact&theme=algolia"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LalitSinghRajput&hide=procfile&layout=compact"/>
 </p>
