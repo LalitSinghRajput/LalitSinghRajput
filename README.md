@@ -2,8 +2,10 @@
 
 - 👨‍💻 I’m currently
 
-  - Making **projects** on **Web Development (MERN Stack)**
-  - Learning **Android**
+  - Making **projects** on
+  - **Web Apps (MERN Stack)**
+  - **Android**
+  - **Flutter**
   - Practicing **DSA** <a href="https://www.leetcode.com/lalitsr24" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="lalitsr24" height="25" width="100" /> </a>
 
 - 👯 I’m looking to collaborate on **Projects**
